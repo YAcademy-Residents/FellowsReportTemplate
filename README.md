@@ -1,35 +1,10 @@
-yAcademy review - Week 1, Fellowship Team Name
+yAcademy TODO_protocol_name Review
 ===
 
 **Fellows:**
  - Fellow name
  - Fellow name
  - Fellow name
-
-## Table of Contents
-
-[TOC]
-
-## Review Summary
-
-**Project Name**
-
-Add a brief description of what the code is intended to do and what problem it solves.
-
-## Scope
-
-Add a link to the repository and state the commit hash that is reviewed.
-
-## Findings Explanation
-
-Findings are broken down into sections by their respective impact:
- - Critical, High, Medium, Low impact
-     - These are findings that range from attacks that may cause loss of funds, impact control/ownership of the contracts, or cause any unintended consequences/actions that are outside the scope of the requirements,
- - Gas savings
-     - Findings that can improve the gas efficiency of the contracts
- - Informational
-     - Findings including recommendations and best practices
----
 
 ## High Findings
 
@@ -140,7 +115,3 @@ A brief summary about what you think of the contract's overall security, possibl
 
 A brief summary about what you think of the contract's overall security, possible weaknesses, and areas for the devs to focus on improving.
 
-
-## About yAcademy
-
-yAcademy is an ecosystem initiative started by Yearn Finance and its ecosystem partners to bootstrap sustainable and collaborative blockchain security reviews and to nurture aspiring security talent. yAcademy includes a fellowship program and a residents program. In the fellowship program, fellows perform a series of periodic security reviews and presentations during the program. Residents are past fellows who continue to gain experience by performing security reviews of contracts submitted to yAcademy for review.
